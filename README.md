@@ -13,4 +13,10 @@ Latest blog
 ![Webpack](https://img.shields.io/badge/Webpack-090909?style=flat-square&logo=Webpack&logoColor-D9054D)
 ![GIT](https://img.shields.io/badge/GIT-090909?style=flat-square&logo=GIT&logoColor-D9054D)
 
-Follow Me
+## Follow Me
+
+[![Facebook](https://img.shields.io/badge/Facebook-090909?style=flat-square&logo=facebook&logoColor-D9054D)](https://www.facebook.com/effectdoplera/)
+[![Telegram](https://img.shields.io/badge/Telegram-090909?style=flat-square&logo=telegram&logoColor-D9054D)](https://t.me/effect_doplera)
+[![Linkedin](https://img.shields.io/badge/Linkedin-090909?style=flat-square&logo=linkedin&logoColor-D9054D)](https://www.linkedin.com/in/mikhail-danshin/)
+[![Instagram](https://img.shields.io/badge/Instagram-090909?style=flat-square&logo=instagram&logoColor-D9054D)](https://www.instagram.com/effect_doplera/)
+[![Twitter](https://img.shields.io/badge/Twitter-090909?style=flat-square&logo=twitter&logoColor-D9054D)](https://twitter.com/mikhail_danshin)
