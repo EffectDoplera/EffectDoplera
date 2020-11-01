@@ -2,7 +2,10 @@ Header
 
 ## Web Dev · JavaScript & React JS Software Developer · Enthusiast
 
-Latest blog
+### Latest blog
+
+<!-- TWITTER-LIST:START -->
+<!-- TWITTER-LIST:END -->
 
 ## Languages and Tools
 
