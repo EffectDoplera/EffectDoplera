@@ -1,6 +1,6 @@
 Header
 
-About me
+## Web Dev · JavaScript & React JS Software Developer · Enthusiast
 
 Latest blog
 
