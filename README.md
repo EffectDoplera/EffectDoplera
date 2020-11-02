@@ -2,11 +2,6 @@ Header
 
 ## Web Dev · JavaScript & React JS Software Developer · Enthusiast
 
-### Latest blog
-
-<!-- TWITTER-LIST:START -->
-<!-- TWITTER-LIST:END -->
-
 ## Languages and Tools
 
 ![HTML5](https://img.shields.io/badge/HTML5-090909?style=flat-square&logo=HTML5&logoColor-D9054D)
