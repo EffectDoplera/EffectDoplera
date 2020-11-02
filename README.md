@@ -1,4 +1,4 @@
-Header
+![Header](https://github.com/EffectDoplera/EffectDoplera/blob/main/assets/Header.png?raw=true)
 
 ## Web Dev · JavaScript & React JS Software Developer · Enthusiast
 
