@@ -19,6 +19,4 @@
 [![Instagram](https://img.shields.io/badge/Instagram-090909?style=flat-square&logo=instagram&logoColor-D9054D)](https://www.instagram.com/effect_doplera/)
 [![Twitter](https://img.shields.io/badge/Twitter-090909?style=flat-square&logo=twitter&logoColor-D9054D)](https://twitter.com/mikhail_danshin)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=EffectDoplera&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EffectDoplera&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=EffectDoplera&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
